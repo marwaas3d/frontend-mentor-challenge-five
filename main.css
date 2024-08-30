@@ -61,7 +61,7 @@ body{
 .content{
     position: absolute;
     top:  39%;
-    left: 61.2%;
+    left: 66.2%;
     width: 429px;
     height: 185px;
 }
@@ -95,7 +95,7 @@ body{
     row-gap: 11px;
     position: absolute;
     top: -675px;
-    left: 38%;
+    left: 42%;
     box-shadow: 0px 11px 12px 5px #00000021;
 
 }

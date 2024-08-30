@@ -72,7 +72,7 @@ body{
 }
 
 .content p {
-    Font-size: 14px;
+    Font-size: 16px;
     color: var(--Dark-Grayish-Violet);
     font-weight: 500;
     line-height: 31px;
@@ -94,8 +94,8 @@ body{
     44px 32px 33px 44px;
     row-gap: 11px;
     position: absolute;
-    top: -589px;
-    left: 47%;
+    top: -631px;
+    left: 42%;
     box-shadow: 0px 11px 12px 5px #00000021;
 
 }

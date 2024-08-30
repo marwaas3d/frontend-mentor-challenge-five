@@ -60,7 +60,7 @@ body{
 /* ********************************************* */
 .content{
     position: absolute;
-    top:  37%;
+    top:  39%;
     left: 54.2%;
     width: 429px;
     height: 185px;
@@ -72,7 +72,7 @@ body{
 }
 
 .content p {
-    Font-size: 15px;
+    Font-size: 14px;
     color: var(--Dark-Grayish-Violet);
     font-weight: 500;
     line-height: 31px;
@@ -94,7 +94,7 @@ body{
     44px 32px 33px 44px;
     row-gap: 11px;
     position: absolute;
-    top: -587px;
+    top: -589px;
     left: 47%;
     box-shadow: 0px 11px 12px 5px #00000021;
 
